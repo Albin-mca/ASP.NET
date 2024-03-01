@@ -1,0 +1,14 @@
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.exe
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.deps.json
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\bin\Debug\net8.0\Starter.pdb
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.pdb
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\Challenge-project-foreach-if-array-CSharp-main\ChallengeProject\Starter\obj\Debug\net8.0\ref\Starter.dll

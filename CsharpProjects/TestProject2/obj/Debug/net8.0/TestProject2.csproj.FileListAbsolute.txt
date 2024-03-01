@@ -1,0 +1,14 @@
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfoInputs.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.AssemblyInfo.cs
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.csproj.CoreCompileInputs.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.exe
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.deps.json
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.runtimeconfig.json
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\bin\Debug\net8.0\TestProject2.pdb
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\refint\TestProject2.dll
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.pdb
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\TestProject2.genruntimeconfig.cache
+C:\Users\godcy\OneDrive\Desktop\ASP.NET\CsharpProjects\TestProject2\obj\Debug\net8.0\ref\TestProject2.dll
