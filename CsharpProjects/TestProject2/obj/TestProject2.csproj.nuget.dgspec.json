@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj": {}
+    "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj": {
+    "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj",
+        "projectUniqueName": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj",
         "projectName": "TestProject2",
-        "projectPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj",
+        "projectPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2\\TestProject2.csproj",
         "packagesPath": "C:\\Users\\godcy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2\\obj\\",
+        "outputPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\godcy\\AppData\\Roaming\\NuGet\\NuGet.Config",

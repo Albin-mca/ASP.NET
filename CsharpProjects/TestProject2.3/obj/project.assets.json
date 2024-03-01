@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2.3\\TestProject2.3.csproj",
+      "projectUniqueName": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2.3\\TestProject2.3.csproj",
       "projectName": "TestProject2.3",
-      "projectPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2.3\\TestProject2.3.csproj",
+      "projectPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2.3\\TestProject2.3.csproj",
       "packagesPath": "C:\\Users\\godcy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\TestProject2.3\\obj\\",
+      "outputPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\TestProject2.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\godcy\\AppData\\Roaming\\NuGet\\NuGet.Config",
