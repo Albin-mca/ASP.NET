@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectUniqueName": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
+      "projectPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\Starter.csproj",
       "packagesPath": "C:\\Users\\godcy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\obj\\",
+      "outputPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Guided-project-foreach-if-array-CSharp-main\\GuidedProject\\Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\godcy\\AppData\\Roaming\\NuGet\\NuGet.Config",

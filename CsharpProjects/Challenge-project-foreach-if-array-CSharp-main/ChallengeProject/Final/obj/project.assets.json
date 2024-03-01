@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\godcy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\godcy\\OneDrive\\Desktop\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\godcy\\Downloads\\ASP.NET\\CsharpProjects\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\godcy\\AppData\\Roaming\\NuGet\\NuGet.Config",
